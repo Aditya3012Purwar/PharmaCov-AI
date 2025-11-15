@@ -75,7 +75,7 @@ class StreamlitApp:
             return None
 
     def render_home_page(self):
-        st.title("📄 Multi-Functional Document Processing System")
+        st.title("📄 PharmaCov AI: Multi-Functional Document Processing System")
         st.markdown("---")
 
         col1, col2, col3 = st.columns(3)
